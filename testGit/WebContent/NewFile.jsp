@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+this is a git page
 </body>
 </html>
